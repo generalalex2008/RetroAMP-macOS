@@ -8,6 +8,9 @@ A lightweight retro-style music player for macOS.
 - Playlist support
 - Equalizer
 - Album artwork display
+  
+## Required
+- MacOS 13 with Apple M1 or Later
 
 ## Download
 
