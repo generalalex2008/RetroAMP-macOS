@@ -18,8 +18,6 @@ A lightweight retro-style music player for macOS.
 Download the latest version from the [Releases](../../releases) page  
 or directly from this repository:
 
-**[Download RetroAMP.dmg](./RetroAMP.dmg)**
-
 > **Note:** This app is currently unsigned.  
 > After installing, you need to remove the quarantine flag and ad-hoc sign it.  
 > Instructions are included inside the DMG.
