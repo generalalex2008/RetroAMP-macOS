@@ -10,7 +10,7 @@ A lightweight retro-style music player for macOS.
 - Album artwork display
   
 ## Required
--Apple Silicon Arm64 & Intel Macs (Universal Binary)
+- Apple Silicon Arm64 & Intel Macs (Universal Binary)
 - MacOS 13 or Later
 
 ## Download
