@@ -10,7 +10,8 @@ A lightweight retro-style music player for macOS.
 - Album artwork display
   
 ## Required
-- MacOS 13 with Apple M1 or Later
+-Apple Silicon Arm64 & Intel Macs (Universal Binary)
+- MacOS 13 or Later
 
 ## Download
 
